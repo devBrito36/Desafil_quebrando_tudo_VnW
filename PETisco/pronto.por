@@ -1,5 +1,3 @@
-// Obs.: O sistema funciona apenas no aplicativo do Portugol Studio, não servindo para o Portugol Web Studio.
-
 /* Algoritmo construído para simular um caixa registrador de um petshop, cujo nome é PETisco Pershop, no qual os produtos serão 
 registrados pelo funcionário. */
 
@@ -303,14 +301,3 @@ programa {
         } enquanto (cartao >= 5)
     }
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 8765; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
